@@ -2,7 +2,7 @@
 
 <br>
   programa feito em python usando a regra de automatos finitos nao deterministicos com movimentos vazios
-
+<br>
 ### 👨‍💻 Desenvolvedor
 
 <table>
